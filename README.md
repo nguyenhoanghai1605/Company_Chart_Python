@@ -1,6 +1,6 @@
 # Company Chart Python
 
-This is a Python-based tool for generating organizational charts of a company.
+This is a Python-based tool for generating organizational charts of a company
 
 ## Features
 
@@ -11,7 +11,7 @@ This is a Python-based tool for generating organizational charts of a company.
 ## Tech Stack
 
 - Python 3
-- Matplotlib / Plotly / NetworkX (tùy chọn)
+- Matplotlib / Plotly / NetworkX (Option)
 
 ## Author
 
