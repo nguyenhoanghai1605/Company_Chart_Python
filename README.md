@@ -18,7 +18,7 @@ This is a Python-based tool for generating organizational charts of a company.
 Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 
 
-## Usage:
+## Usage
 **1. Install required libraries:**
 ```bash
 pip install matplotlib numpy
