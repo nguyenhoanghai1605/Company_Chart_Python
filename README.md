@@ -1,8 +1,8 @@
-# Company Chart Python:
+# Company Chart Python
 
 This is a Python-based tool for generating organizational charts of a company.
 
-## Features:
+## Features
 
 - Read data from structured input.
 - Generate org chart dynamically.
