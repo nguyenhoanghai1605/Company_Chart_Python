@@ -28,7 +28,7 @@ pip install matplotlib numpy
 ```bash
 pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org matplotlib numpy
 ```
-**2. Run the Python code to see all the diagrams:**
+**2. Run the Python code to see all the diagrams**
 ```bash
 python filename.py
 ```
