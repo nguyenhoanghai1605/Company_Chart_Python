@@ -1,4 +1,4 @@
-# Company Chart Python:
+# Company Chart Python
 
 This is a Python-based tool for generating organizational charts of a company.
 
